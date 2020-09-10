@@ -6718,11 +6718,7 @@ anglo_saxon.1001 = {	#Fictional holder to allow barony placement.
 # Lucas, first of his name
 8282018 = {
     name = "Lucas"
-    # dna = todo
-    martial = 12
-    diplomacy = 8
-    intrigue = 7
-    stewardship = 14
+    dna = 8282018_lucas
     religion = norse_pagan
     culture = anglo_saxon
     disallow_random_traits = yes
